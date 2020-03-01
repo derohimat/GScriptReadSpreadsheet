@@ -1,1 +1,10 @@
 GScriptReadSpreadsheet
+
+
+published api url 
+
+https://script.googleusercontent.com/macros/echo?user_content_key=rZGfIWePqN2k49h5hN8ElFmCNq5rtGJG17X3f7Sez7twCDk8lZwbNcMPQmKiYjXNwCXde5ywnBF8yI-_fDxzIY-aORwpb0uRm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnBoWuv1VzOTAm4ScdtZCs7xqICfUrq_XSHzItBiyIYV14s5GzsLP9v8Sblm1tbO-i7w9b2k7WbBh3bgPuCGuxiCdEy9KtHB5DA&lib=MvdVDijvs1JZUY6lUS5DrpWLEmajNCNWf
+
+Android Client App
+
+https://github.com/derohimat/DscUtamaWorkshopMakers
